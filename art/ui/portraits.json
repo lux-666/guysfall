@@ -1,0 +1,96 @@
+{
+ "source": "public/assets/reference.png",
+ "note": "rects: x,y,w,h card-portrait crops; chips: x,y,side square face crops for round tokens. Both cut from the style sample until per-crew 512x640 portraits exist.",
+ "rects": {
+  "engineer": [
+   88,
+   633,
+   137,
+   125
+  ],
+  "storekeeper": [
+   273,
+   630,
+   137,
+   123
+  ],
+  "medic": [
+   449,
+   628,
+   134,
+   125
+  ],
+  "security": [
+   620,
+   633,
+   143,
+   121
+  ],
+  "scientist": [
+   833,
+   661,
+   84,
+   108
+  ],
+  "comms": [
+   987,
+   658,
+   91,
+   110
+  ],
+  "cook": [
+   1144,
+   659,
+   95,
+   111
+  ],
+  "clerk": [
+   1310,
+   658,
+   82,
+   104
+  ]
+ },
+ "chips": {
+  "engineer": [
+   108,
+   634,
+   104
+  ],
+  "storekeeper": [
+   293,
+   640,
+   104
+  ],
+  "medic": [
+   458,
+   638,
+   104
+  ],
+  "security": [
+   640,
+   642,
+   104
+  ],
+  "scientist": [
+   838,
+   668,
+   82
+  ],
+  "comms": [
+   990,
+   664,
+   84
+  ],
+  "cook": [
+   1142,
+   668,
+   82
+  ],
+  "clerk": [
+   1308,
+   670,
+   84
+  ]
+ }
+}
